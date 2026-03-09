@@ -24,6 +24,8 @@
     <p>باندل رسمي (يتطلب حذف النسخ الأساسية) </p>
 </ol>
 
+## Note: the ipa files below may crash on first launch, and downloading stories will not work
+
 <p> IPA Needs Certification (Requires IPA signing) </p>
 <table>
     <thead>
@@ -35,13 +37,13 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1xtccc6SJYkvsO-wu0oHXPbD4u36V166k/view?usp=sharing">WhatsApp</a> </td>
-            <td> 24.8.83 </td>
+            <td> <a href="https://drive.google.com/file/d/1nLO5hlr8hKoqULGtSDxbHOILn2B8QjCS/view?usp=drive_link">WhatsApp</a> </td>
+            <td> 26.8.76 </td>
             <td> 10.23 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1v-owgTVyIzRx7p6GRCT51AYCOdNH61Gu/view?usp=sharing">WA Business</a> </td>
-            <td> 24.8.83 </td>
+            <td> <a href="https://drive.google.com/file/d/1c5eynoZiiO8FJGcf-uwg7SrahJL4qdmX/view?usp=drive_link">WA Business</a> </td>
+            <td> 26.8.76 </td>
             <td> 10.23 </td>
         </tr>
     </tbody>
