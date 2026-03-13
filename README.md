@@ -37,7 +37,7 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1nLO5hlr8hKoqULGtSDxbHOILn2B8QjCS/view?usp=drive_link">WhatsApp</a> </td>
+            <td> <a href="https://drive.google.com/file/d/1IgLapPrw1-Y0cX2r3CUJCLDSKlwnO80O/view?usp=sharing">WhatsApp</a> </td>
             <td> 26.8.76 </td>
             <td> 10.23 </td>
         </tr>
