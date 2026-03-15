@@ -38,7 +38,7 @@
     <tbody>
         <tr>
             <td> <a href="https://drive.google.com/file/d/1IgLapPrw1-Y0cX2r3CUJCLDSKlwnO80O/view?usp=sharing">WhatsApp</a> </td>
-            <td> 26.8.76 </td>
+            <td> 26.9.75 </td>
             <td> 10.23 </td>
         </tr>
         <tr>
