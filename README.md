@@ -32,14 +32,14 @@
         <tr>
             <th> App </th>
             <th> Version </th>
-            <th> WARevael </th>
+            <th> WARevael/WGold </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1IgLapPrw1-Y0cX2r3CUJCLDSKlwnO80O/view?usp=sharing">WhatsApp</a> </td>
+            <td> <a href="https://drive.google.com/file/d/1CYEsTm27gO8yELBeb4b5LkK1jpSEOVk2/view?usp=sharing">WhatsApp</a> </td>
             <td> 26.9.75 </td>
-            <td> 10.23 </td>
+            <td> 10.23/1.4 </td>
         </tr>
         <tr>
             <td> <a href="https://drive.google.com/file/d/1bTxXh1fDX08R0ISupiGLivbysVi4ijrV/view?usp=sharing">WA Business</a> </td>
